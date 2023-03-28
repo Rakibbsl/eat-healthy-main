@@ -1,0 +1,156 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0%;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+    color: darkgrey;
+}
+
+.skip {
+    color: rgb(252, 215, 6);
+}
+
+.flexible {
+    display: flex;
+}
+
+.first-box {
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
+.order-food {
+    background-image: radial-gradient(rgb(168, 115, 0), rgb(255, 166, 83));
+    border-radius: 30px;
+    text-decoration: none;
+    padding: 15px 40px;
+    color: white;
+    font-size: 15px;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+.body-bilder {
+    margin-right: 15px;
+    width: 95%;
+}
+
+.second-box {
+    width: 50%;
+}
+
+.parson-image {
+    margin-right: 15px;
+    margin-left: 200px;
+    width: 40%;
+    height: 300px;
+}
+
+.second-part {
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-right: 5px;
+    background-image: url(images/shapes/7.png);
+}
+
+.recipe-hedding {
+    text-align: center;
+}
+
+.div-arrange {}
+
+.recipe-box {
+    margin: 5% 2%;
+}
+
+.food-img {
+    width: 96%;
+    height: 250px;
+    margin-left: 2%;
+    margin-top: 5%;
+    margin-right: 2%;
+
+}
+
+.box-shadow-o {
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 1%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 20px grey;
+
+
+}
+
+.box-shadow-t {
+    width: 40%;
+    margin-left: 1%;
+    margin-right: 10%;
+    border-radius: 25px;
+    box-shadow: 10px 10px 40px grey;
+
+}
+
+.resipe-title {
+    font-size: 35px;
+    color: black;
+    margin-left: 2%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.resipe-p {
+    font-size: 16px;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+.social-info {
+    width: 80%;
+    height: 200px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 15px;
+}
+
+.social-arrange {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.info-one {
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+.info-two {
+    margin-left: 140px;
+}
+
+.info-three {
+    margin-left: 200px;
+}
+
+footer {
+    background-color: darkslategray;
+    margin: 0%;
+    height: 300px;
+    text-align: center;
+    margin-top: 110px;
+}
+
+.footer-p {
+    margin-top: 10%;
+}
